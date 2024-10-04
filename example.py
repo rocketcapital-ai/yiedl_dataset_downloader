@@ -1,0 +1,4 @@
+from lib.yiedl_dataset_downloader import download_latest_yiedl_dataset, download_historical_yiedl_dataset
+
+download_latest_yiedl_dataset()
+download_historical_yiedl_dataset()

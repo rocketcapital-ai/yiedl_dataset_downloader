@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://api.yiedl.ai/yiedl/v1/downloadDataset",
+  "latestDatasetType": "latest",
+  "historicalDatasetType": "historical",
+  "defaultLatestDatasetFilename": "latest_dataset.parquet",
+  "defaultHistoricalDatasetFilename": "historical_dataset.zip",
+  "chunkSize": 8192
+}
